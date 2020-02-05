@@ -1,2 +1,2 @@
-# class-02-
+# Lab project
 lab for class 02
